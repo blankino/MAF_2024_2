@@ -12,7 +12,7 @@ Töltse ki az ábrát "pókokkal" az alábbi szabályok alapján:
 
 + Az ábra szélén látható számok azt jelzik, hogy az adott sorban ill. oszlopban hány pók van.
 
-A Jupyter Notebookban található egy feladvány, illetve ennek helyes kitöltése a feladat szemléltetése céljából.
+A Jupyter Notebookban található egy feladvány, illetve ennek helyes kitöltése a feladat szemléltetése céljából. (Ezek offline megjelenítéséhez a Jupyter Notebookkal együtt a megfelelő képeket is le kell tölteni a projekt mappájából.)
 
 ## A program
 A programmal alapvetően azt igyekeztünk szimulálni, ahogyan egy emberi játékos megoldaná a feladványt: először megpróbáljuk "kilogikázni" a következő lépést, például különböző mintázatokat keresve, ha pedig ezekkel már nem tudunk továbblépni, akkor backtrackingre támaszkodva a DFS algoritmussal keressük a megoldást.
